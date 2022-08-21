@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Github Link: https://github.com/TechieTee/Typing_Game_App
+Netlify Link: https://accurate-speedy.netlify.app
+ 
+App Details: A simple app built with React + NextJS for users to test and improve their typing skills. The app presents the user with a random text paragraph and the time duration of the typing test which is 1min. Once the test is set up, the user starts the test and hence the timer. The user types the paragraph in another text box as it is. For each correct word, he gets 1 point and for each incorrect word, he types he will receive a wrong point. Total points are the total no of characters in the paragraph.
+
+
 ## To build
 1.  Clone the repo:
 ```bash

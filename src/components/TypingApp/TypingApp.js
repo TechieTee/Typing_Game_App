@@ -54,7 +54,7 @@ const app = () => {
     <div className={styles.appContainer}>
       <h1 className={styles.mainHeading}>Accurate Speedy</h1>
       <span className={styles.mainHeadingTips}>
-        hey there! do test for either of spead and then accuracy before trying
+        hey there! you might want to test for either of spead and then accuracy before trying
         to perfect both, you can do this!
       </span>
       <div className={styles.testMontainerMain}>
