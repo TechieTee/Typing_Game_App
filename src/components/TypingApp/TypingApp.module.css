@@ -1,0 +1,32 @@
+.appContainer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 15px;
+  /* width: 100vw; */
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+.mainHeading {
+  font-family: "Carter One", cursive;
+  font-size: 50px;
+  margin: 0;
+  margin-bottom: 20px;
+  color: rgb(216, 194, 194);
+  text-shadow: 2px 2px 5px #2a2a2c;
+}
+.mainHeadingTips {
+    font-family: "Carter One", cursive;
+    font-size: 25px;
+    margin: 0;
+    margin-bottom: 20px;
+    color: rgb(20, 10, 10);
+   
+  }
+.testContainerMain {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+}
